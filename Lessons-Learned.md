@@ -1,4 +1,4 @@
-# Lessons Learned
+# Architecture Notes
 
 ## Lesson 1: Understanding Modern Data Architecture
 
